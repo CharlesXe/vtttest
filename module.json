@@ -1,0 +1,14 @@
+{
+    "name":"testvtt",
+    "title":"test vtt module",
+    "description": "",
+    "author":"",
+    "minimumCoreVersion":"0.6.0",
+    "compatibleCoreVersion":"0.6.6",
+    "script":[
+        "inint.js"
+    ],
+    "url":"https://github.com/CharlesXe/vtttest",
+    "manifest":"",
+    "download":""
+}
