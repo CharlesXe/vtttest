@@ -1,8 +1,9 @@
 {
     "name":"testvtt",
     "title":"test vtt module",
-    "description": "",
-    "author":"",
+    "description": "test module",
+    "author":"xen",
+    "version":"1.0.0",
     "minimumCoreVersion":"0.6.0",
     "compatibleCoreVersion":"0.6.6",
     "script":[
